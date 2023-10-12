@@ -1,3 +1,4 @@
 # razee9-demo
-this is my first Git repository
-Author-Rajeev
+this is my first Git repository.
+<br>
+Author  -  Rajeev
